@@ -1,3 +1,4 @@
+
 import logo from './logo.svg'
 import Navbar from "./Components/Navbar"
 import Home from "./Components/Home"
@@ -31,3 +32,9 @@ function App() {
 }
 
 export default App;
+
+
+{/*
+   npx json-server --watch data/db.json --port 8000  
+  
+  */}
