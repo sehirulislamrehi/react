@@ -1,22 +1,28 @@
 {
-     "blogs" : [
-          {
-               "id" : 1,
-               "title" : "My new website",
-               "body" : "Lorem ipsum...",
-               "author" : "mario"
-          },
-          {
-               "id" : 2,
-               "title" : "Welcome Party",
-               "body" : "Lorem ipsum...",
-               "author" : "yoshi"
-          },
-          {
-               "id" : 3,
-               "title" : "Web dev top tips",
-               "body" : "Lorem ipsum...",
-               "author" : "mario"
-          }
-     ]
+  "blogs": [
+    {
+      "id": 3,
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum...",
+      "author": "mario"
+    },
+    {
+      "title": "Yoo",
+      "body": "Yoo",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "",
+      "body": "",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "aa",
+      "body": "aaa",
+      "author": "mario",
+      "id": 6
+    }
+  ]
 }

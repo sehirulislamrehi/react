@@ -16,3 +16,19 @@
 .blog-preview:hover{
   background: thistle;
 }
+
+.createForm{
+  padding: 15px;
+  background: thistle;
+}
+.createForm label{
+  display: block;
+}
+.createForm .form-control{
+  min-width: 100%;
+  max-width: 100%;
+  border: none;
+}
+.createForm .form-group{
+  margin-top: 15px;
+}
